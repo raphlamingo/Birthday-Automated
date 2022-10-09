@@ -17,8 +17,8 @@ monthss = today.month
 
 
 
-my_mail = 'igwerapheal286@gmail.com'
-password = 'pass123.'
+my_mail = '#insert email'
+password = 'password.'
 
 for d in birth:
     if d['month'] == monthss and d['day'] == date_month:
